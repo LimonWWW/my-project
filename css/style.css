@@ -14,3 +14,18 @@ h1 {
 p {
     font-size: 16px;
 }
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+footer {
+    margin-top: 30px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    color: #666;
+}
