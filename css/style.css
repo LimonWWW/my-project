@@ -1,4 +1,4 @@
-﻿body {
+body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
     color: #333;
@@ -21,6 +21,23 @@ ul {
 
 li {
     margin-bottom: 8px;
+}
+
+.contacts {
+    background-color: #ffffff;
+    border-left: 4px solid #2c3e50;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.contacts a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+.contacts a:hover {
+    text-decoration: underline;
 }
 
 footer {
